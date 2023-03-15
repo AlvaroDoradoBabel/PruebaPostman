@@ -1,7 +1,11 @@
-
 {
-  id: 101,
-  title: 'hola',
-  body: 'alvaro',
-  userId: 200
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
